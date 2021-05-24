@@ -1,0 +1,13 @@
+[server]
+# debug 开发模式，release 生产模式
+AppMode = "release"
+HttpPort = ":3000"
+JwtKey = "mpn91mVhwf7luF15VI3nqRn3nC4Xy7hp"
+
+[database]
+Db = "mysql"
+DbHost = ""
+DbPort = "3306"
+DbUser = ""
+DbPassWord = ""
+DbName = ""
